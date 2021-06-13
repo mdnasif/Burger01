@@ -1,0 +1,449 @@
+@media (min-width: 1221px) and (max-width: 1440px) {
+    .burger-logo {
+        
+        left: -15%;
+        width: 120%;
+    }
+    .round-text {
+        
+        left: 45px;
+        bottom: 36px;
+    }
+    .price-only .round-img {
+        bottom: 18px;
+        left: 30px;
+    }
+    .f-sec {
+        margin-top: 105px;
+    }
+    .social-side li i {
+        height: 31px;
+        width: 35px;
+    }
+    
+    
+  }
+  @media (min-width: 1025px) and (max-width: 1220px) {
+    
+  }
+  
+  @media (min-width: 376px) and (max-width: 575px) {
+   
+    .navbar-collapse {
+        padding-top: 14px;
+        direction: rtl;
+    }
+    .navbar-text{
+        display: none;
+    }
+    .container-fluid .navbar-toggler {
+        margin-left: 91%;
+        margin-top: -90px;
+        border: #3d2514;
+    }
+    .toggler-icon {
+        color: #3d2514;
+        font-size: 23px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+        padding-top: 15px;
+    }
+    .banner-content {
+        text-align: center;
+    }
+    .banner-content h5 {
+        font-size: 23px;
+        border: 3px dashed #3d2514;
+        letter-spacing: 0px;
+    }
+    .banner-content h1 {
+        font-size: 75px;
+    }
+    .banner-content h3 {
+        font-size: 40px;
+    }
+    .burger-logo {
+        left: 0%;
+        width: 85%;
+        bottom: -140px;
+    }
+    .round-img {
+        width: 19%;
+    }
+    .price-only .round-img {
+        bottom: -26px;
+        left: 95px;
+    }
+    .round-text {
+        padding: 15px 20px;
+        left: 103px;
+        bottom: -17px;
+    }
+    .price-only .round-text h1 {
+        font-size: 28px;
+    }
+    .price-only .round-text h2 {
+        font-size: 20px;
+    }
+    .todayPic{
+        margin-bottom:24px;
+    }
+    .todayText h4 {
+        font-size: 26px;
+        padding: 0px 5px;
+        padding-top: 11px;
+    }
+    .todayText h3 {
+        font-size: 36px;
+        padding: 12px 5px;
+        letter-spacing: 0px;
+    }
+    .try-position-2 h5 {
+        font-size: 30px;
+        letter-spacing: 2px;
+    }
+    .try-position-2 p {
+        font-size: 24px;
+        margin-bottom: 8px;
+        padding-top: 15px;
+    }
+    .try-position-3 p {
+        font-size: 24px;
+        margin-bottom: 8px;
+        padding-top: 15px;
+    }
+    .try-position-3 h5 {
+        font-size: 31px;
+        letter-spacing: 2px;
+    }
+    .fresh-chill {
+        margin-top: 24px;
+    }
+    .always-testy h4 {
+        padding: 8px 18px;
+        font-size: 24px;
+    }
+    .always-testy h1 {
+        font-size: 43px;
+        padding-top: 30px;
+    }
+    .always-testy p {
+        padding: 0px 11px;
+        font-size: 16px;
+    }
+    .img-col {
+        width: 80%;
+        margin: auto;
+    }
+    .img-text h1 {
+        margin-bottom: 16px;
+    }
+    .img-text{
+        margin-bottom: 15px;
+    }
+    .img-text p {
+        font-size: 18px;
+        padding: 0px 26px;
+    }
+    .custom-btn {
+        font-size: 18px;
+        padding: 11px 30px;
+    }
+    .slider-text h4 {
+        font-size: 28px;
+        margin-bottom: 14px;
+        text-align: center;
+    }
+    .slider-text h1 {
+        font-size: 35px;
+        text-align: center;
+    }
+    .slider-text p {
+        font-size: 17px;
+        text-align: center;
+    }
+    .owl-dots {
+        position: inherit;
+        bottom: 2px;
+        left: 224px;
+    }
+    .reserve-img-left {
+        top: -65px;
+        width: 25%;
+        left: -14px;
+    }
+    .reserve-img-right {
+        top: 89%;
+        width: 26%;
+        right: -14px;
+    }
+    .heading h4 {
+        font-size: 26px;
+    }
+    .heading h1 {
+        font-size: 34px;
+    }
+    form input[type="text"] {
+        font-size: 20px;
+        padding: 12px 10px;
+    }
+    form input[type="date"] {
+        font-size: 20px;
+        padding: 12px 10px;
+    }
+    form input[type="email"] {
+        font-size: 20px;
+        padding: 12px 10px;
+    }
+    .book-table {
+        width: 95%;
+        margin: auto;
+    }
+    form [type="submit"] {
+        font-size: 18px;
+        padding: 12px 0;
+        padding-left: 0px;
+    }
+    .footer-section h6 {
+       text-align: center;
+        margin-bottom: 20px;
+    }
+    .social-side{
+        text-align: center !important;
+    }
+  
+  }
+
+  @media (min-width: 321px) and (max-width: 375px){
+
+  }
+
+  @media (min-width: 0px) and (max-width: 320px) {
+
+    a.navbar-brand {
+        width: 60%;
+        align-items: center;
+    }
+    .navbar-text{
+        display: none;
+    }
+    .banner-content h5 {
+        font-size: 18px;
+        border: 3px dashed #3d2514;
+        padding: 10px 20px;
+        text-align: center;
+    }
+    .banner-content h1 {
+        font-size: 50px;
+        text-align: center;
+        padding-top: 24px;
+    }
+    .banner-content h3 {
+        font-size: 34px;
+        letter-spacing: 4px;
+        text-align: center;
+    }
+    .burger-logo {
+        width: 100%;
+        bottom: -100px;
+        left: -3%;
+    }
+    .round-img {
+        width: 25%;
+    }
+    .price-only .round-text h1 {
+        font-size: 21px;
+    }
+    .price-only .round-text h2{
+        font-size: 15px;
+
+    }
+    .banner-content {
+        min-height: 50vh;
+       
+        padding-top: 0%;
+    }
+    .price-only .round-img {
+        bottom: -34px;
+        left: 50px;
+    }
+    .round-text {
+        /* padding: 16px 6px; */
+        left: 56px;
+        bottom: -27px;
+        padding: 10px 13px;
+    }
+
+    .navbar-collapse {
+        padding-top: 14px;
+        direction: rtl;
+    }
+    /* button .navbar-toggler{
+        right: 0;
+    } */
+    .container-fluid .navbar-toggler {
+        /* width: 70px; */
+        margin-left: 90%;
+        margin-top: -70px;
+        border: #3d2514;
+    }
+    .toggler-icon {
+        color: #3d2514;
+        font-size: 20px;
+        /* margin: 0; */
+        /* padding: 0; */
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 22px;
+        padding: 3px;
+        letter-spacing: 1px;
+        text-align: center;
+    }
+    .todayPic{
+        margin-bottom:20px;
+    }
+    .todayPic img{
+        padding-top: 6px;
+    }
+    .todayText h4 {
+        font-size: 25px;
+        padding: 0px 8px;
+        padding-top: 11px;
+    }
+    .todayText h3 {
+        font-size: 17px;
+        padding: 0px 10px;
+        letter-spacing: 1px;
+    }
+    .try-position-2 p {
+        font-size: 24px;
+    }
+    .try-position-2 h5 {
+        font-size: 19px;
+    }
+    .fresh-chill {
+        margin-top: 20px;
+    }
+    .try-position-3 p {
+        font-size: 24px;
+    }
+    .try-position-3 h5 {
+        font-size: 18px;
+        padding-top: 3px;
+    }
+    .always-testy h4 {
+        padding: 12px 16px;
+        font-size: 18px;
+    }
+    .always-testy h1 {
+        font-size: 40px;
+        padding: 18px 0px;
+    }
+    .always-testy p {
+        font-size: 17px;
+        padding: 0px 22px;
+    }
+    .img-col {
+        width: 75%;
+        margin: auto;
+    }
+    .img-text h1 {
+        font-size: 34px;
+        margin-bottom: 15px;
+    }
+    .img-text p {
+        font-size: 18px;
+        padding: 0px 15px;
+    }
+    .custom-btn {
+        font-size: 17px;
+        padding: 10px 30px;
+    }
+    .slider-text h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .slider-text h4 {
+        font-size: 30px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .slider-text h1 {
+        font-size: 30px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .slider-text p {
+        padding: 21px 0px;
+        font-size: 16px;
+        text-align: center;
+    }
+    .owl-dots {
+        bottom: 6px;
+        left: 126px;
+    }
+    
+    .reserve-img-left {
+        top: -70px;
+        width: 34%;
+        left: -8px;
+    }
+    .reserve-img-right {
+        top: 91%;
+        width: 40%;
+        right: -8px;
+    }
+    .heading h4 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .heading h1 {
+        font-size: 32px;
+        padding-top: 10px;
+    }
+    form input[type="text"] {
+        font-size: 20px;
+        padding: 12px 10px;
+    }
+    form input[type="date"] {
+        font-size: 20px;
+        padding: 12px 10px;
+    }
+    form input[type="email"] {
+        font-size: 20px;
+        padding: 12px 10px;
+    }
+    .book-table {
+        width: 95%;
+        margin: auto;
+    }
+    form [type="submit"] {
+        font-size: 18px;
+        padding: 12px 0;
+        padding-left: 0px;
+    }
+    .footer-section p {
+        font-size: 17px;
+        text-align: center;
+    }
+    .contact-info {
+        padding-left: 0;
+    }
+    .contact h5 {
+        font-size: 17px;
+    }
+    .footer-section h6 {
+        font-size: 12px;
+        letter-spacing: 2px;
+        margin-bottom: 20px;
+    }
+    .social-side li i {
+        height: 31px;
+        width: 34px;
+        font-size: 20px;
+    }
+    .social-side{
+        text-align: center !important;
+    }
+  }
